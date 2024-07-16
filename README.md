@@ -1,5 +1,8 @@
 # Flipkart Laptop Scraper
 
+![1_AR_sg8scbelToLUSxFDJHQ](https://github.com/user-attachments/assets/1091de0c-2e8a-406c-ac65-7e82dc02bc60)
+
+
 This Python script utilizes Beautiful Soup and Selenium to scrape details of laptops from Flipkart. It extracts information such as the name, price, and ratings of various laptops listed on Flipkart's website.
 
 
